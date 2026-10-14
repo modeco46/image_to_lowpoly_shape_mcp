@@ -1,0 +1,9 @@
+mcp==1.30.0
+opencv-python-headless>=4.9
+numpy>=1.26
+shapely>=2.0
+mapbox-earcut>=2.0
+triangle>=20230923
+scikit-image>=0.22
+scipy>=1.11
+networkx>=3.0
